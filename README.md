@@ -1,4 +1,4 @@
-# cGZPnPTN
+# We are the Champions Endorsement App
 
 We are the Champions endorsement App
 
