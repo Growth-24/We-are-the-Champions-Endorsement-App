@@ -9,7 +9,6 @@ Wayne Myrie Jr
 
 
 Tech Stack:
-Quick start:
 
 ```
 $ npm install
