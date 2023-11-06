@@ -1,5 +1,14 @@
 # cGZPnPTN
 
+We are the Champions endorsement App
+
+A way for users to share positive endorsements to others for doing a good job.
+
+Author
+Wayne Myrie Jr
+
+
+Tech Stack:
 Quick start:
 
 ```
