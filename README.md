@@ -1,14 +1,14 @@
 # We are the Champions Endorsement App
 
-We are the Champions endorsement App
-
 A way for users to share positive endorsements to others for doing a good job.
 
-Author
+# Author
 Wayne Myrie Jr
 
+# View project here: https://scoreboard-tracker.netlify.app/
 
-Tech Stack:
+
+# Tech Stack:
 
 ```
 $ npm install
