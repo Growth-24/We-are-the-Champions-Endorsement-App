@@ -5,7 +5,7 @@ A way for users to share positive endorsements to others for doing a good job.
 # Author
 Wayne Myrie Jr
 
-# View project here: https://scoreboard-tracker.netlify.app/
+# View project here: https://sharing-positive-endorsements.netlify.app/
 
 
 # Tech Stack:
