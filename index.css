@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    user-select: none;
+    
+}
+
+img {
+    width: 90px;
+    margin-top: 50px;
+}
+
+.endorsement {
+    width: 317px;
+    border-radius: 8px;
+    padding: 50px;
+
+}
+
+.publish-btn {
+    width: 317px;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 13px;
+}
+
+h3 {
+    width: 160px;
+    font-family: 'Inter', sans-serif;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;   
+}
+
+.endorsement-text {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+
+li {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    margin: 30px;
+}
